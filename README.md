@@ -8,7 +8,7 @@ I am an Embedded Software Engineer with more than a decade of experience in deve
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [psrenc08@gmail.com](mailto:psrenc08@gmail.com)
-* 🧠  I'm learning Python, Javascript & AWS
+* 🧠  I'm learning Python, Javascript & AWS to move towards AI world
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills

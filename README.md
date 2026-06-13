@@ -1,24 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sangeetha Mariappan
-===========================================================================================================================================
+# 👋 Hi, I'm Sangeetha
 
-Senior Software Engineer
-------------------------
+**Embedded Software Engineer → Technical Lead | Firmware Security | Embedded Linux | C++**
 
-I am an Embedded Software Engineer with more than a decade of experience in developing innovative and efficient embedded solutions in the STB & DVB domain. Passionate about pushing the boundaries of technology and contributing to impactful projects in a collaborative and growth-focused environment.
+With over a decade building production-grade embedded systems in the STB & DVB domain, I specialise in firmware security, Yocto-based platform architecture, and leading teams to deliver complex embedded projects at scale.
 
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [psrenc08@gmail.com](mailto:psrenc08@gmail.com)
-* 🧠  I'm learning Python, Javascript & AWS to move towards AI world
-* 🤝  I'm open to collaborating on interesting projects
+I've shipped security-critical platforms (CAK7 migration), architected RDK-B solutions, led GPL audits, and hosted technical webinars on Yocto & embedded Linux architecture — bridging the gap between deep embedded expertise and collaborative engineering leadership.
 
-### Skills
+---
 
+## 🔧 What I work with
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+```
+Languages     C++ · C · Python (learning) · Bash
+Platforms     Yocto · RDK-B · Embedded Linux · STB/DVB
+Security      Firmware security · Static analysis · GPL auditing · Secure boot
+Tooling       CMake · Git · Cppcheck · Clang-tidy
+Cloud/AI      AWS Cloud Practitioner (in progress) · Exploring AI/ML integration
+```
 
+---
 
-### Socials
+## 🚀 What I'm working on
 
-<p align="left"> <a href="https://www.linkedin.com/in/sangeetha-mariappan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- 🔐 Deepening expertise in **firmware security & cloud security** (AWS)
+- 🤖 Bridging **embedded systems + AI** — where the next decade of devices lives
+- ✍️ Writing at **[Embedded & Beyond](https://hashnode.com)** — making embedded systems less scary, one post at a time
+- 🛠️ Building reusable **C++ templates & Yocto layers** for the embedded community
+
+---
+
+## 🤝 Open to
+
+- Collaborating on **embedded Linux, firmware security, or IoT projects**
+- **Staff / Senior engineer or tech lead roles** in the UK embedded space
+- Connecting with engineers working at the intersection of **embedded + cloud + AI**
+
+---
+
+## 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangeetha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![Blog](https://img.shields.io/badge/Blog-Embedded%20%26%20Beyond-purple?style=flat&logo=hashnode)](https://YOUR-BLOG.hashnode.dev)
+[![Email](https://img.shields.io/badge/Email-psrenc08@gmail.com-red?style=flat&logo=gmail)](mailto:psrenc08@gmail.com)
+
+---
+
+*📍 Based in the UK · Open to hybrid & remote roles*

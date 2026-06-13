@@ -11,10 +11,10 @@ I've shipped security-critical platforms (CAK7 migration), architected RDK-B sol
 ## 🔧 What I work with
 
 ```
-Languages     C++ · C · Python (learning) · Bash
-Platforms     Yocto · RDK-B · Embedded Linux · STB/DVB
+Languages     C++ · C · Python · Bash
+Platforms     Yocto · RDK-V/E · Embedded Linux · STB/DVB . OTT . Cloud based streaming
 Security      Firmware security · Static analysis · GPL auditing · Secure boot
-Tooling       CMake · Git · Cppcheck · Clang-tidy
+Tooling       CMake · Git · Gdb . strace
 Cloud/AI      AWS Cloud Practitioner (in progress) · Exploring AI/ML integration
 ```
 
@@ -39,8 +39,8 @@ Cloud/AI      AWS Cloud Practitioner (in progress) · Exploring AI/ML integratio
 
 ## 📬 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangeetha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
-[![Blog](https://img.shields.io/badge/Blog-Embedded%20%26%20Beyond-purple?style=flat&logo=hashnode)](https://YOUR-BLOG.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangeetha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sangeetha-mariappan/)
+[![Blog](https://img.shields.io/badge/Blog-Embedded%20%26%20Beyond-purple?style=flat&logo=hashnode)](https://hashnode.com/@sangeethabalachandru)
 [![Email](https://img.shields.io/badge/Email-psrenc08@gmail.com-red?style=flat&logo=gmail)](mailto:psrenc08@gmail.com)
 
 ---
